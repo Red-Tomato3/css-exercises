@@ -1,0 +1,19 @@
+.fruit{
+    background-color: #f87092;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#apple{
+    color: #1333e7;
+    font-size: 36px;
+}
+
+#grapes{
+    background-color: rgb(138, 253, 138);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.veg{
+    font-size: 24px;
+}
